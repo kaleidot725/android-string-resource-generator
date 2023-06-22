@@ -1,1 +1,1 @@
-# android-string-resource-generator
+# mobile-string-resource-generator
